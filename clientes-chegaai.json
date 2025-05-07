@@ -1,9 +1,9 @@
 {
-    "5599999999999": {
+    "5551980463129": {
       "nomeCliente": "João da Silva",
-      "historico": [
-        "Gostaria de um Xis Salada com Coca",
-        "18:32"
-      ]
+      "pedido": "Xis Salada + Coca 2L",
+      "pagamento": "PIX",
+      "status": "Novo",
+      "hora": "18:32"
     }
   }  
